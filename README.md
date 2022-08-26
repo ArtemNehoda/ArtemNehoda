@@ -32,7 +32,7 @@
 ### :link: &nbsp;Connect with me
 
 <p align="center">
-<a href="https://it.linkedin.com/in/artem-nehoda-925487165"><img src="https://img.shields.io/badge/-Kevin%20Patel-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://it.linkedin.com/in/artem-nehoda-925487165"><img src="https://img.shields.io/badge/-Artem%20Nehoda-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://instagram.com/artiom.nhd"><img src="https://img.shields.io/badge/-kevinpatel.me-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 </p>
 
