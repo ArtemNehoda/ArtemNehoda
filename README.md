@@ -14,12 +14,12 @@
 ### 🛠 &nbsp;Tech Stack
 
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Go' src='https://img.shields.io/badge/Golang-100000?style=flat&logo=Go&logoColor=00ccff&labelColor=0D1B28&color=0D1B28'/></a>
-<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='amazon' src='https://img.shields.io/badge/AWS-100000?style=flat&logo=amazon&logoColor=white&labelColor=0D1B28&color=0D1B28'/></a>
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='amazon' src='https://img.shields.io/badge/AWS-100000?style=flat&logo=amazon&logoColor=ff9933&labelColor=0D1B28&color=0D1B28'/></a>
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='linux' src='https://img.shields.io/badge/Bash_scripting-100000?style=flat&logo=linux&logoColor=white&labelColor=0D1B28&color=0D1B28'/></a>
-<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='typescript' src='https://img.shields.io/badge/Typescript-100000?style=flat&logo=typescript&logoColor=white&labelColor=0D1B28&color=0D1B28'/></a>
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='typescript' src='https://img.shields.io/badge/Typescript-100000?style=flat&logo=typescript&logoColor=4d94ff&labelColor=0D1B28&color=0D1B28'/></a>
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='mysql' src='https://img.shields.io/badge/SQL-100000?style=flat&logo=mysql&logoColor=white&labelColor=0D1B28&color=0D1B28'/></a>
-<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='redis' src='https://img.shields.io/badge/NOSQL-100000?style=flat&logo=redis&logoColor=white&labelColor=0D1B28&color=0D1B28'/></a>
-<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='gnu' src='https://img.shields.io/badge/Backend-100000?style=flat&logo=gnu&logoColor=FFFFFF&labelColor=0D1B28&color=0D1B28'/></a>
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='redis' src='https://img.shields.io/badge/NOSQL-100000?style=flat&logo=redis&logoColor=cc2900&labelColor=0D1B28&color=0D1B28'/></a>
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='gnu' src='https://img.shields.io/badge/Backend-100000?style=flat&logo=gnu&logoColor=00b359&labelColor=0D1B28&color=0D1B28'/></a>
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php&logoColor=777BB4)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=339933)&nbsp;
