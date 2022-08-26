@@ -13,22 +13,18 @@
 
 ### 🛠 &nbsp;Tech Stack
 
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Go' src='https://img.shields.io/badge/Golang-100000?style=flat&logo=Go&logoColor=white&labelColor=0D1B28&color=0D1B28'/></a>
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='amazon' src='https://img.shields.io/badge/AWS-100000?style=flat&logo=amazon&logoColor=white&labelColor=0D1B28&color=0D1B28'/></a>
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='linux' src='https://img.shields.io/badge/Bash_scripting-100000?style=flat&logo=linux&logoColor=white&labelColor=0D1B28&color=0D1B28'/></a>
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='typescript' src='https://img.shields.io/badge/Typescript-100000?style=flat&logo=typescript&logoColor=white&labelColor=0D1B28&color=0D1B28'/></a>
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='mysql' src='https://img.shields.io/badge/SQL-100000?style=flat&logo=mysql&logoColor=white&labelColor=0D1B28&color=0D1B28'/></a>
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='redis' src='https://img.shields.io/badge/NOSQL-100000?style=flat&logo=redis&logoColor=white&labelColor=0D1B28&color=0D1B28'/></a>
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='gnu' src='https://img.shields.io/badge/Backend-100000?style=flat&logo=gnu&logoColor=FFFFFF&labelColor=0D1B28&color=0D1B28'/></a>
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php&logoColor=777BB4)&nbsp;
-![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel&logoColor=FF2D20)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![JSON](https://img.shields.io/badge/-JSON-05122A?style=flat&logo=json&logoColor=000000)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=339933)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-05122A?style=flat&logo=sublime-text&logoColor=FF9800)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
-<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Go' src='https://img.shields.io/badge/Golang-100000?style=flat&logo=Go&logoColor=white&labelColor=0D1B28&color=0D1B28'/></a>
 
+... I don't want to list the various classic frameworks and tools because these lists are boring
 
 ### :link: &nbsp;Connect with me
 
