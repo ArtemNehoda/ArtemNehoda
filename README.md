@@ -2,7 +2,7 @@
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I am Artem</h1>
-<img src="Star-Wars-Boba-Fett-PNG-Clipart.png" width="200"/>
+<p align="center"><img src="Star-Wars-Boba-Fett-PNG-Clipart.png" width="200"/></p>
 <p align="center" width="150px">"I'm just a simple man making his way through the galaxy."</p>
 
 <p align="center"><b>Visitor's Count</b></p>
