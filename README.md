@@ -13,7 +13,7 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Go' src='https://img.shields.io/badge/Golang-100000?style=flat&logo=Go&logoColor=white&labelColor=0D1B28&color=0D1B28'/></a>
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Go' src='https://img.shields.io/badge/Golang-100000?style=flat&logo=Go&logoColor=00ccff&labelColor=0D1B28&color=0D1B28'/></a>
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='amazon' src='https://img.shields.io/badge/AWS-100000?style=flat&logo=amazon&logoColor=white&labelColor=0D1B28&color=0D1B28'/></a>
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='linux' src='https://img.shields.io/badge/Bash_scripting-100000?style=flat&logo=linux&logoColor=white&labelColor=0D1B28&color=0D1B28'/></a>
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='typescript' src='https://img.shields.io/badge/Typescript-100000?style=flat&logo=typescript&logoColor=white&labelColor=0D1B28&color=0D1B28'/></a>
