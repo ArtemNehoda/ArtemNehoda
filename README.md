@@ -37,6 +37,5 @@
 </p>
 
 ---
-Credit: [KevinPatel04](https://github.com/KevinPatel04)
 
 Last Updated On: 26/08/2022
