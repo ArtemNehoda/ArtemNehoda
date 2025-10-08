@@ -5,7 +5,6 @@
 <p align="center"><img src="Star-Wars-Boba-Fett-PNG-Clipart.png" width="200"/></p>
 <p align="center" width="150px">"I'm just a simple man making his way through the galaxy."</p>
 
-<p align="center"><b>Visitor's Count</b></p>
 <p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=ArtemNehoda&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="400"></p> 
 <p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=ArtemNehoda&theme=chartreuse-dark"></p>
 
