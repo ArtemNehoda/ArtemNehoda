@@ -5,8 +5,6 @@
 <p align="center"><img src="Star-Wars-Boba-Fett-PNG-Clipart.png" width="200"/></p>
 <p align="center" width="150px">"I'm just a simple man making his way through the galaxy."</p>
 
-![My PR Stats](https://github-pr-stats-five.vercel.app/api/github-pr-stats?username=ArtemNehoda)
-
 ### 🛠 &nbsp;Tech Stack
 
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Go' src='https://img.shields.io/badge/Golang-100000?style=flat&logo=Go&logoColor=00ccff&labelColor=0D1B28&color=0D1B28'/></a>
