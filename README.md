@@ -5,8 +5,18 @@
 <p align="center"><img src="Star-Wars-Boba-Fett-PNG-Clipart.png" width="200"/></p>
 <p align="center" width="150px">"I'm just a simple man making his way through the galaxy."</p>
 
-<p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=ArtemNehoda&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="400"></p> 
-<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=ArtemNehoda&theme=chartreuse-dark"></p>
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=ArtemNehoda&show_icons=true&count_private=true&include_all_commits=true&theme=chartreuse-dark" 
+    width="400"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-streak-stats.vercel.app?user=ArtemNehoda&theme=chartreuse-dark" 
+  />
+</p>
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -31,4 +41,4 @@
 
 ---
 
-Last Updated On: 26/08/2022
+Last Updated On: 04/01/2026
